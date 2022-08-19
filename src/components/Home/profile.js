@@ -37,7 +37,7 @@ const Profile = () => {
                   </ul>
                 </div>
                 <a
-                  href="https://github.com/farhanreizha"
+                  href="https://github.com/farhanreizha/reactjscourse"
                   target="_blank"
                   className="d-flex text-white text-decoration-none me-3 justify-content-end align-items-center"
                 >
