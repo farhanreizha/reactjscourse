@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-item:hover::after {
+  content: "";
+  display: block;
+  border-left: 3px solid #999;
+  margin: auto;
+  padding-top: 1.2em;
+  margin-top: -1.3em;
+  margin-left: -0.7em;
+}
